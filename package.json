@@ -1,0 +1,21 @@
+{
+"name" : "MEAN",
+"version" : "0.0.3",
+"dependencies" : {
+"express" : "latest",
+"morgan": "latest",
+"compression": "latest",
+"body-parser": "latest",
+"method-override": "latest",
+"express-session": "latest",
+"ejs": "latest",
+"mongoose": "latest",
+"should": "latest",
+"passport": "latest",
+"passport-local": "latest",
+"connect-flash": "latest",
+"socket.io": "latest",
+"connect-mongo": "latest",
+"cookie-parser": "latest"
+}
+}
